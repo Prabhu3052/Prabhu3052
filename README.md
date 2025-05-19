@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Prabhu P
+# Hi buddy 👋 I'm Prabhu P
 
 💻 **Computer Science Engineer** | 🚀 **AI/ML Enthusiast** | 🔥 **Full Stack Developer**
 
