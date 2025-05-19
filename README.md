@@ -1,44 +1,37 @@
-# Hi there 👋 I'm Prabhu P
+<div align="center">
+  
+<!-- Animated header with typing text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&width=435&lines=✨+Welcome+to+my+profile!;👋+I'm+Prabhu+P;💻+CS+Engineer+%7C+AI+Enthusiast;🚀+Full+Stack+Developer" alt="Typing animation" />
 
-💻 **Computer Science Engineer** | 🚀 **AI/ML Enthusiast** | 🔥 **Full Stack Developer**
+<!-- Glowing divider -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-📍 From Sivakasi, Tamil Nadu, India  
-📧 Reach me: [prabhu23lakshmi@gmail.com](mailto:prabhu23lakshmi@gmail.com)  
-📞 Call me: [+91 9344095995](tel:+919344095995)
+<!-- Profile counter -->
+![](https://komarev.com/ghpvc/?username=Prabhu3052&color=6C63FF&style=flat-square)
 
-## 🛠️ My Skills
+</div>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🎯 About Me
 
-### Technologies & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🔥 My Projects
++ Passionate developer building AI and web solutions
+! Currently interning @Gradtwin (Machine Learning)
+# From Sivakasi, Tamil Nadu
+- TCS NQT Scores: Basic (71%) | Advanced (81%)
+🛠️ Tech Stack
+<!-- Animated skill icons --><p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mongodb,aws,git,github,vscode&perline=6&theme=light" /> </p>
+🔥 Featured Projects
+<table> <!-- Row 1 --> <tr> <td width="50%"> <h3 align="center">❤️ Heart Disease Predictor</h3> <div align="center"> <a href="https://github.com/Prabhu3052/Machine-learning-Projects"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhu3052&repo=Machine-learning-Projects&theme=radical" /> </a> <p>ML model predicting heart disease risk</p> </div> </td> <td width="50%"> <h3 align="center">💬 Realtime Chat App</h3> <div align="center"> <a href="https://real-time-chat-app-eight-dusky.vercel.app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhu3052&repo=real-time-chat-app&theme=radical" /> </a> <p>WebSocket based chat application</p> </div> </td> </tr> <!-- Row 2 --> <tr> <td width="50%"> <h3 align="center">👥 Gender Detection</h3> <div align="center"> <a href="https://github.com/Prabhu3052/Gender-detection"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhu3052&repo=Gender-detection&theme=radical" /> </a> <p>CV model for gender classification</p> </div> </td> <td width="50%"> <h3 align="center">✅ Task Manager</h3> <div align="center"> <a href="https://task-manager-app-gold-one.vercel.app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhu3052&repo=task-manager-app&theme=radical" /> </a> <p>Fullstack task management system</p> </div> </td> </tr> </table>
+📊 GitHub Analytics
+<div align="center"><!-- Stats with radial theme -->
+Prabhu's GitHub stats
 
-### Machine Learning
-- [Heart Disease Prediction](https://github.com/Prabhu3052/Machine-learning-Projects) - ML model to predict heart disease
-- [Gender Detection](https://github.com/Prabhu3052/Gender-detection) - Computer vision model
+<!-- Streak stats -->
+GitHub Streak
 
-### Full Stack
-- [Task Manager](https://task-manager-app-gold-one.vercel.app) - Fullstack task management app
-- [Real-Time Chat](https://real-time-chat-app-eight-dusky.vercel.app) - WebSocket based chat
-- [Food Order System](https://github.com/Prabhu3052/Food-order-system) - Python based system
+<!-- Language stats -->
+Top Langs
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabhu3052&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhu3052&layout=compact&theme=radical)
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhu13p)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabhu3052)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/prabhu23lakshmi)
+</div>
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/prabhu13p"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:prabhu23lakshmi@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="tel:+919344095995"> <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <a href="https://github.com/Prabhu3052"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p><!-- Snake animation --><div align="center"> <img src="https://raw.githubusercontent.com/Prabhu3052/Prabhu3052/output/github-contribution-grid-snake-dark.svg" /> </div><!-- Fun quote --><div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </div>
